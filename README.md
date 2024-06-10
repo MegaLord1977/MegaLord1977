@@ -12,7 +12,7 @@ You can find more of my artwork on [ArtStation](https://www.artstation.com/Pacha
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=blender,unity,unreal,cs,cpp," /> <br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,kotlin,swift, " />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,kotlin, " />
   </a>
 </p>
 
